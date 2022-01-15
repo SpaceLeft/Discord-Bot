@@ -1,6 +1,0 @@
-{
-  "DESCRIPTION": "Gebruiker DM",
-  "USAGE": "dm <user> <message>",
-  "TITLE": "DM ontvangen van de gilde: {{NAME}}",
-  "SUCCESS": "DM met succes verzonden naar {{TAG}}."
-}
