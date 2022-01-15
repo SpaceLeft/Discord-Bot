@@ -1,6 +1,0 @@
-{
-  "DESCRIPTION": "Lanza una moneda.",
-  "USAGE": "voltear",
-  "HEADS": "Caras",
-  "TAILS": "Cruces"
-}
