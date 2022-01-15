@@ -1,5 +1,0 @@
-{
-  "DESCRIPTION": "Отображает эмодзи сервера",
-  "USAGE": "emojilist",
-  "MESSAGE": "**{{GUILD}} эмодзи:**\n{{EMOJIS}}"
-}
