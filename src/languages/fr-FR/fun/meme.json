@@ -1,6 +1,0 @@
-{
-  "DESCRIPTION": "Renvoi un `meme` aléatoire.",
-  "USAGE": "meme",
-  "TITLE": "Depuis {{SUBREDDIT}}",
-  "FOOTER": "👍 {{UPVOTES}}   👎 {{DOWNVOTES}}"
-}

@@ -1,5 +1,0 @@
-{
-  "DESCRIPTION": "Activer le Mode Lent d'un salon.",
-  "USAGE": "slowmode <durée / off>",
-  "SUCCESS": "Mode lent activé : **{{TIME}}**."
-}

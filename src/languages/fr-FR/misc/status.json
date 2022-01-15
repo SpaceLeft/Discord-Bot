@@ -1,8 +1,0 @@
-{
-  "DESCRIPTION": "Récupère le statut du bot.",
-  "USAGE": "status",
-  "PONG": "Pong",
-  "PING": "Ping :",
-  "CLIENT": "Client API :",
-  "MONGO": "MongoDB :"
-}
